@@ -1,4 +1,4 @@
-# msexcel-builder
+# xlbuilder
 
 A simple and fast library to create MS Office Excel(>2007) xlsx files(Compatible with the OpenOffice document format). 
 
@@ -17,11 +17,11 @@ Features:
 Install it in node.js:
 
 ```
-npm install msexcel-builder
+npm install xlbuilder
 ```
 
 ```javascript
-var excelbuilder = require('msexcel-builder');
+var excelbuilder = require('xlbuilder');
 ```
 
 Then create a sample workbook with one sheet and some data.
